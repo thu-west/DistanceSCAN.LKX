@@ -1,5 +1,25 @@
 # DistanceSCAN
+Code Contributor: Kaixin Liu
 
+If you have any questions, feel free to contact me. My email is lkx17@mails.tsinghua.edu.cn.
+
+Please cite our paper if you choose to use our code. 
+
+```
+@inproceedings{DBLP:***,
+  author    = {Kaixin Liu and
+               Sibo Wang and
+               Yong Zhang and
+               Chunxiao Xing},
+  title     = {An Efficient Algorithm for Distance-based Structural Graph Clustering},
+  journal   = {PACMMOD},
+  volume    = {1},
+  number    = {45},
+  pages     = {**--**},
+  year      = {2023},
+  doi       = {10.1145/3588725},
+}
+```
 ## Tested Environment
 - Ubuntu
 - C++ 14
